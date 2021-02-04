@@ -1,0 +1,96 @@
+body {
+    text-align: center;
+    background: linear-gradient(#f29c63 5%, #6ff296 80%);
+    background-repeat: no-repeat;
+    border-color: #1d2178;
+    border-width: 9px;
+    border-style: dashed;
+}
+
+
+img {
+    width: 15%;
+    height: 130px;
+
+    border-bottom-color: white;
+    border-left-color: white;
+    border-right-color: darkblue;
+    border-top-color: darkblue;
+    border-width: 5px;
+    border-style: solid;
+    border-radius: 50%;
+
+}
+
+h1 {
+    text-shadow: 1px 2px #4e85de;
+    font-size: 25px;
+    font-family: Oldtown, fantasy;
+}
+
+h2 {
+    text-shadow: 1px 2px #4e85de;
+    font-size: 25px;
+    font-family: Oldtown, fantasy;
+}
+
+#hobby {
+    padding-top: 20px;
+    font-size: 18px;
+    text-align: center;
+    font-family: Comic Sans, Comic Sans MS, cursive;
+    text-indent: 90px;
+ linear-gradient( #a78de3 5%, #e693cd 80%);
+}
+
+
+.menu {
+    list-style: none;
+    font-family: monospace;
+    float: right;
+    top: 10px;
+    right: 30px;
+    cursor: alias;
+    color: black;
+    
+    
+}
+
+.link {
+  display: inline;}
+.menu:hover{
+    color:#3276c9;
+    text-decoration:underline;
+    text-decoration-color:forestgreen;
+}
+.button{
+    color:blue;
+    background-color: burlywood;
+}
+
+.button: hover{
+    color:crimson;
+     text-decoration:underline;
+    text-decoration-color:cyan;
+    
+}
+
+html{
+    scroll-behavior: smooth;
+    background-image: linear-gradient(#c5f542 5%, #3edeed 80%);
+}
+
+#viopic
+{
+    transition:transform.2s;
+    border:10px solid #AAAAAA;
+}
+
+#viopic:hover{
+    transform: scale(0.9);
+}
+
+
+
+
+
